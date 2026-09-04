@@ -1,0 +1,310 @@
+{
+ "dimensional": [
+  {
+   "pass": true,
+   "check": "Overall width (glazing outer)",
+   "model": 246.25,
+   "drawing": 246.25,
+   "delta": 0.0,
+   "source": "s1/s10 20'-6 1/4\""
+  },
+  {
+   "pass": true,
+   "check": "Overall length",
+   "model": 615.25,
+   "drawing": 615.25,
+   "delta": 0.0,
+   "source": "s7/s8 615 1/4\""
+  },
+  {
+   "pass": true,
+   "check": "Top of ridge",
+   "model": 122.875,
+   "drawing": 122.875,
+   "delta": 0.0,
+   "source": "s1/s7 10'-2 7/8\""
+  },
+  {
+   "pass": true,
+   "check": "Roof pitch (deg)",
+   "model": 23.1,
+   "drawing": 23.1,
+   "delta": 0.0,
+   "source": "s3/s10 23.1"
+  },
+  {
+   "pass": true,
+   "check": "Interior truss width",
+   "model": 236.25,
+   "drawing": 236.25,
+   "delta": 0.0,
+   "source": "s10 19'-8 1/4\""
+  },
+  {
+   "pass": true,
+   "check": "Exterior truss width",
+   "model": 242.25,
+   "drawing": 242.25,
+   "delta": 0.0,
+   "source": "s10 20'-2 1/4\""
+  },
+  {
+   "pass": true,
+   "check": "Eave bend point height",
+   "model": 52.0,
+   "drawing": 52.09,
+   "delta": -0.09000000000000341,
+   "source": "s7 geom"
+  },
+  {
+   "pass": true,
+   "check": "Eave arc R (glazing)",
+   "model": 27.78817268957391,
+   "drawing": 27.79,
+   "delta": -0.0018273104260906337,
+   "source": "tangency solve"
+  },
+  {
+   "pass": true,
+   "check": "Truss post height",
+   "model": 52.4375,
+   "drawing": 52.4375,
+   "delta": 0.0,
+   "source": "s10 52 7/16\""
+  },
+  {
+   "pass": true,
+   "check": "Top chord length",
+   "model": 127.2936149577032,
+   "drawing": 127.3125,
+   "delta": -0.018885042296801657,
+   "source": "s10 127 5/16\""
+  },
+  {
+   "pass": true,
+   "check": "Bottom chord length",
+   "model": 120.38780145014694,
+   "drawing": 120.375,
+   "delta": 0.01280145014693801,
+   "source": "s10 120 3/8\""
+  },
+  {
+   "pass": true,
+   "check": "Centre web length",
+   "model": 26.185999999999993,
+   "drawing": 26.1875,
+   "delta": -0.0015000000000071623,
+   "source": "s10 26 3/16\""
+  },
+  {
+   "pass": true,
+   "check": "Long web length",
+   "model": 59.70324956817677,
+   "drawing": 59.6875,
+   "delta": 0.015749568176772755,
+   "source": "s10 59 11/16\""
+  },
+  {
+   "pass": true,
+   "check": "Short web length",
+   "model": 13.83764015285843,
+   "drawing": 13.8125,
+   "delta": 0.025140152858430298,
+   "source": "s10 13 13/16\""
+  },
+  {
+   "pass": true,
+   "check": "Purlin-1 centre height",
+   "model": 99.76268793923103,
+   "drawing": 99.755,
+   "delta": 0.0076879392310331696,
+   "source": "s7 band 98.09-101.42"
+  },
+  {
+   "pass": true,
+   "check": "Purlin-2 centre height",
+   "model": 82.69602336697609,
+   "drawing": 82.65,
+   "delta": 0.04602336697608678,
+   "source": "s7 band 80.97-84.33"
+  },
+  {
+   "pass": true,
+   "check": "Purlin spacing (slope)",
+   "model": 43.5,
+   "drawing": 43.5,
+   "delta": 0.0,
+   "source": "s1 43 1/2\""
+  },
+  {
+   "pass": true,
+   "check": "Door frame width",
+   "model": 34.375,
+   "drawing": 34.375,
+   "delta": 0.0,
+   "source": "s1/s2 34 3/8\""
+  },
+  {
+   "pass": true,
+   "check": "Door clear opening width",
+   "model": 32.374,
+   "drawing": 32.373,
+   "delta": 0.0010000000000047748,
+   "source": "s2 geom"
+  },
+  {
+   "pass": true,
+   "check": "Door clear opening head",
+   "model": 76.187,
+   "drawing": 76.187,
+   "delta": 0.0,
+   "source": "s2 geom"
+  },
+  {
+   "pass": true,
+   "check": "Door frame top",
+   "model": 77.2,
+   "drawing": 77.2,
+   "delta": 0.0,
+   "source": "s2 geom"
+  },
+  {
+   "pass": true,
+   "check": "Door stile width",
+   "model": 2.0,
+   "drawing": 2.0,
+   "delta": 0.0,
+   "source": "s2 geom 17.187->14.187"
+  },
+  {
+   "pass": true,
+   "check": "Door lower light height",
+   "model": 27.173,
+   "drawing": 27.173,
+   "delta": 0.0,
+   "source": "s2 geom"
+  },
+  {
+   "pass": true,
+   "check": "Door upper light height",
+   "model": 27.174,
+   "drawing": 27.174,
+   "delta": 0.0,
+   "source": "s2 geom"
+  },
+  {
+   "pass": true,
+   "check": "Door kick panel height",
+   "model": 12.827,
+   "drawing": 12.827,
+   "delta": 0.0,
+   "source": "s2 geom"
+  },
+  {
+   "pass": true,
+   "check": "Gable post top",
+   "model": 94.374,
+   "drawing": 94.375,
+   "delta": -0.0010000000000047748,
+   "source": "s3 94 3/8\""
+  },
+  {
+   "pass": true,
+   "check": "Gable post spacing",
+   "model": 98.0,
+   "drawing": 98.0,
+   "delta": 0.0,
+   "source": "s3 98\""
+  },
+  {
+   "pass": true,
+   "check": "Outside base to gable post",
+   "model": 74.125,
+   "drawing": 74.125,
+   "delta": 0.0,
+   "source": "s3 74 1/8\""
+  },
+  {
+   "pass": true,
+   "check": "Upper gable brace length",
+   "model": 148.506,
+   "drawing": 148.5,
+   "delta": 0.006000000000000227,
+   "source": "s3 148 1/2\""
+  },
+  {
+   "pass": true,
+   "check": "Upper gable brace height",
+   "model": 80.007,
+   "drawing": 80.0,
+   "delta": 0.007000000000005002,
+   "source": "s3 80\""
+  },
+  {
+   "pass": true,
+   "check": "Lower gable brace length",
+   "model": 104.81299999999999,
+   "drawing": 104.8125,
+   "delta": 0.0004999999999881766,
+   "source": "s3 104 13/16\""
+  },
+  {
+   "pass": true,
+   "check": "Lower gable brace height",
+   "model": 38.007,
+   "drawing": 38.0,
+   "delta": 0.006999999999997897,
+   "source": "s3 38\""
+  },
+  {
+   "pass": true,
+   "check": "Gable purlin support length",
+   "model": 107.3913747840114,
+   "drawing": 107.375,
+   "delta": 0.01637478401140413,
+   "source": "s3 107 3/8\""
+  },
+  {
+   "pass": true,
+   "check": "Glazing-bar pitch",
+   "model": 24.5,
+   "drawing": 24.5,
+   "delta": 0.0,
+   "source": "s9 24 1/2\""
+  },
+  {
+   "pass": true,
+   "check": "Rib chain end gap",
+   "model": 1.375,
+   "drawing": 1.375,
+   "delta": 0.0,
+   "source": "s9 1 3/8 + 25x24 1/2 + 1 3/8"
+  },
+  {
+   "pass": true,
+   "check": "First truss from end",
+   "model": 125.375,
+   "drawing": 125.375,
+   "delta": 0.0,
+   "source": "s7 125 3/8\""
+  },
+  {
+   "pass": true,
+   "check": "Truss spacing (inner)",
+   "model": 125.5,
+   "drawing": 125.5,
+   "delta": 0.0,
+   "source": "s7 125 1/2\""
+  },
+  {
+   "pass": true,
+   "check": "Plate bolt holes per truss",
+   "model": 62,
+   "drawing": 62,
+   "delta": 0,
+   "source": "s10 table 60 + 2 to ridge"
+  }
+ ],
+ "failures": 0,
+ "worst_unconnected_end_in": 0.0
+}

@@ -1,0 +1,15 @@
+# Source material — NOT for publication.
+# The supplied vendor CAD set and the site photographs. Their title blocks
+# and captions carry identifying information, so nothing here is committed.
+*.pdf
+
+# Local renders of the drawing sheets, produced by the extraction tools.
+_ref/
+
+# Build scratch
+__pycache__/
+*.pyc
+
+# Preserved history of the previous repository. Contains the old commit
+# messages, so it must never be committed into this one.
+.git-old-repo/
