@@ -225,7 +225,7 @@ for zc in SIDEVENT_Z:                                            # side vents
     for sx in (1, -1):
         skin = skin.cut(cq.Workplane("XY").box(4*IN, (SV_Y1-SV_Y0)*IN, SV_W*IN)
                         .translate((sx*HW*IN, (SV_Y0+SV_Y1)/2*IN, zc*IN)))
-glass.append(skin)
+addg(skin, "roof and side-wall glazing")
 
 # ----------------------------------------------------------------- save
 fc = cq.Compound.makeCompound([s.val() if hasattr(s, "val") else s for s in frame])
